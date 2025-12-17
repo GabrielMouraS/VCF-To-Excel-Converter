@@ -23,8 +23,8 @@ O projeto conta com interfaces gráficas (GUI) desenvolvidas nativamente para ca
 Este repositório foi criado para demonstrar versatilidade na resolução de um problema real de TI (migração de dados legados e backup de contatos). O mesmo algoritmo de parsing foi implementado em duas linguagens com paradigmas diferentes:
 
 1.  **Python:** Prototipagem rápida, uso de bibliotecas de alto nível e facilidade de manutenção.
-2.  
-3.  **C:** Manipulação de arquivos em baixo nível (File I/O), alocação manual de memória e criação de executáveis nativos leves sem dependência de interpretadores instalados na máquina do cliente.
+
+2.  **C:** Manipulação de arquivos em baixo nível (File I/O), alocação manual de memória e criação de executáveis nativos leves sem dependência de interpretadores instalados na máquina do cliente.
 
 ---
 
