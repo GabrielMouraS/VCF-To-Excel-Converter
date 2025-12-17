@@ -37,7 +37,7 @@ Este repositório foi criado para demonstrar versatilidade na resolução de um 
  │    ├── main.c         # Código fonte em C puro
  │    └── compilar.bat   # Script de automação de build (Windows)
  └── 📂 assets           # Prints e recursos visuais
-
+```
  
  ## 🚀 Como Executar
 
@@ -49,12 +49,14 @@ Pré-requisito: Python 3 instalado.
 cd python-version
 pip install pandas openpyxl
 python main.py
-
+```
 
 ## ⚙️ 2. Versão C (Windows)
 
 Pré-requisito: Windows + compilador configurado.
 
+```bash
 cd c-version
 compilar.bat
 main.exe
+```
